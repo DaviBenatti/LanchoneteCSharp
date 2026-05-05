@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\LanchoneteCSharp\bin\Debug\net8.0\LanchoneteCSharp.exe
+C:\Users\fic\Desktop\LanchoneteCSharp\bin\Debug\net8.0\LanchoneteCSharp.deps.json
+C:\Users\fic\Desktop\LanchoneteCSharp\bin\Debug\net8.0\LanchoneteCSharp.runtimeconfig.json
+C:\Users\fic\Desktop\LanchoneteCSharp\bin\Debug\net8.0\LanchoneteCSharp.dll
+C:\Users\fic\Desktop\LanchoneteCSharp\bin\Debug\net8.0\LanchoneteCSharp.pdb
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.AssemblyInfo.cs
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.dll
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\refint\LanchoneteCSharp.dll
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.pdb
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.genruntimeconfig.cache
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\ref\LanchoneteCSharp.dll
