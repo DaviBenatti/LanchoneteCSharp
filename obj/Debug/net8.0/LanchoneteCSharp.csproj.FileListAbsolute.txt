@@ -12,3 +12,4 @@ C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\refint\LanchoneteCSharp.d
 C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.pdb
 C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.genruntimeconfig.cache
 C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\ref\LanchoneteCSharp.dll
+C:\Users\fic\Desktop\LanchoneteCSharp\obj\Debug\net8.0\LanchoneteCSharp.sourcelink.json

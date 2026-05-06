@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LanchoneteCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52273e1505c64d71782e9f9c6d510785c5797677")]
 [assembly: System.Reflection.AssemblyProductAttribute("LanchoneteCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LanchoneteCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

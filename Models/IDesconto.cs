@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LanchoneteCSharp
+namespace LanchoneteCSharp.Models
 {
-    public class Sobremesa
+    public interface IDesconto
     {
-        
+        decimal aplicarDesconto();
     }
 }
